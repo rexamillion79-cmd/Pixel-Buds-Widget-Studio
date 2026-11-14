@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Buds Widget Studio",
+  "description": "Real-time Android Material You Pixel Buds battery widget with adaptive color extraction, transparency controls, live telemetry simulation, and Jetpack Glance export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
